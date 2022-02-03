@@ -1,0 +1,1 @@
+# featured-star-plugin
